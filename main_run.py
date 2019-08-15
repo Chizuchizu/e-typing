@@ -10,7 +10,7 @@ if __name__ == "__main__":
     while True:
         try:
             _ = int(number)
-            if int(number) > 956 or int(number) < 1:
+            if int(number) < 1:
                 print("無効な数です")
                 number = input("第何回？:")
                 continue
