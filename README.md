@@ -20,6 +20,3 @@ main2_js.pyのtime.sleep()は必ず1以上にしてください。
 
 ## Author
 [Twitter](https://twitter.com/chizu_potato)
-
-## License
-MIT
